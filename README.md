@@ -38,7 +38,7 @@ The following are required for use of this demo. For more information on how to 
 
 * Zybo Z7-10
 * Pmod VGA
-* Vivado 2021.1 Installation
+* Vivado 2022.1 Installation
 * MicroUSB Cable
 * VGA Monitor
 * VGA Cable
