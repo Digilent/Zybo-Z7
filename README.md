@@ -15,6 +15,7 @@ Useful links are provided in the table below.
 |[Zybo-Z7 Pmod VGA Demo](https://digilent.com/reference/programmable-logic/zybo-z7/demos/pmod-vga)|10/Pmod-VGA/master, 20/Pmod-VGA/master|HW|
 |[Zybo-Z7 XADC Demo](https://digilent.com/reference/programmable-logic/zybo-z7/demos/xadc)|10/XADC/master, 20/XADC/master|HW|
 |[Zybo-Z7-20 Pcam 5C Demo](https://digilent.com/reference/learn/programmable-logic/tutorials/zybo-z7-pcam-5c-demo/start)|20/Pcam-5C/master|HW, SW|
+|[Zybo-Z7 Petalinux Demo](https://digilent.com/reference/programmable-logic/zybo-z7/demos/petalinux)|10/Petalinux/master, 20/Petalinux/master|HW, OS|
 
 ## Repository Description
 
@@ -35,4 +36,7 @@ Demos were moved into this repository during 2020.1 updates. History of these de
 - https://github.com/Digilent/Zybo-Z7-10-XADC
 - https://github.com/Digilent/Zybo-Z7-20-XADC
 - https://github.com/Digilent/Zybo-Z7-20-pcam-5c
-
+- https://github.com/Digilent/Petalinux-Zybo-Z7-10
+- https://github.com/Digilent/Zybo-Z7-10-base-linux
+- https://github.com/Digilent/Petalinux-Zybo-Z7-20
+- https://github.com/Digilent/Zybo-Z7-20-base-linux
